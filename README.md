@@ -1,3 +1,5 @@
+<mark> As of June 2019 this project is no longer being maintained as gulp is typically no longer part of our regular workflow.</mark>
+
 # Gulp Template
 
 The base Gulp application used at [thoughtbot].
